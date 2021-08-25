@@ -74,7 +74,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -83,11 +83,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "7ac680b65643528e",
   "lastOpenFiles": [
     "test.md",
+    "git remote.md",
+    "git 教學.md",
     "未命名.md"
   ]
 }
