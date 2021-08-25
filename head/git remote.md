@@ -15,5 +15,6 @@ H2
 ![image](https://image2.cqcb.com/d/file/personage/2017-08-31/53beb7de4cd8dc2ef2639c949a679056.jpg)
 <br>
 <img src="https://image2.cqcb.com/d/file/personage/2017-08-31/53beb7de4cd8dc2ef2639c949a679056.jpg" alt="GitHub" title="GitHub,Social Coding" width="100" height="80" />
+![lwir](E:\0818\可見光熱影像15m\20210818_104101_280_R.JPG)
 
 
