@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "git remote.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "7ac680b65643528e",
   "lastOpenFiles": [
