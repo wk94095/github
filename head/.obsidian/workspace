@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git push test.md",
-            "mode": "preview"
+            "file": "git remote.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git push test.md",
+                "file": "git remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "7ac680b65643528e",
   "lastOpenFiles": [
-    "git push test.md",
     "git remote.md",
-    "未命名.md",
+    "git push test.md",
     "test.md",
-    "git 教學.md"
+    "git 教學.md",
+    "未命名.md"
   ]
 }
