@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "a8f94086853ee51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "32386bbd5ea38caf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "head/git remote.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7609c6bd2cc0a355",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f8345f98d185703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99c2622c73cc7db9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b649fdfb90b54a2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55d65e767aa55d05",
+    "type": "split",
+    "children": [
+      {
+        "id": "20fc793b968c44c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dc08fdc84130ae9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "head/git remote.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "32386bbd5ea38caf",
+  "lastOpenFiles": [
+    "head/git remote.md",
+    "head/test.md",
+    "head/git push test.md",
+    "head/git 教學.md"
+  ]
+}
