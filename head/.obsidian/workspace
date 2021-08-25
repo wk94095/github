@@ -83,11 +83,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "7ac680b65643528e",
   "lastOpenFiles": [
+    "test.md",
     "未命名.md"
   ]
 }
