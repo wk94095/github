@@ -4,6 +4,14 @@
       "modifiers": [
         "Mod"
       ],
+      "key": "-"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
       "key": "+"
     }
   ]
