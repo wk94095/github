@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "head/git remote.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "group": "9a6ef6c3a02a9e2b"
@@ -144,11 +144,11 @@
   "active": "32386bbd5ea38caf",
   "lastOpenFiles": [
     "head/git remote.md",
+    "head/git 教學.md",
     "head/git push test.md",
     "head/IMG_E2864.JPG",
     "head/test.md",
     "bighead/test.md",
-    "head/git 教學.md",
     "README.md",
     "img/IMG_E2864.JPG.md"
   ]
