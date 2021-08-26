@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "head/git push test.md",
+            "file": "head/git remote.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "head/git push test.md",
+            "file": "head/git remote.md",
             "mode": "source"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "head/git push test.md",
+                "file": "head/git remote.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "head/git push test.md",
+                "file": "head/git remote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "head/git push test.md"
+                "file": "head/git remote.md"
               }
             }
           }
@@ -143,8 +143,8 @@
   },
   "active": "32386bbd5ea38caf",
   "lastOpenFiles": [
-    "head/git push test.md",
     "head/git remote.md",
+    "head/git push test.md",
     "head/IMG_E2864.JPG",
     "head/test.md",
     "bighead/test.md",
