@@ -19,5 +19,7 @@ H2
 <br>
 <img src="https://image2.cqcb.com/d/file/personage/2017-08-31/53beb7de4cd8dc2ef2639c949a679056.jpg" alt="GitHub" title="GitHub,Social Coding" width="100" height="80" />
 
+![image](D:\陳冠銘\photo\apple 產品\IMG_E2864.JPG)
+<img src="D:\陳冠銘\photo\apple 產品\IMG_E2864.JPG" alt="GitHub"  />
 
 
